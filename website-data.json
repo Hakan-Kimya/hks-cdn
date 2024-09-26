@@ -1,7 +1,7 @@
-{
-  "hks-test": {
+[
+  {
     "name": "Test",
-    "id": 1,
+    "id": "hks-test",
     "imageLink": "https://hkayrad.github.io/hks-cdn/images/itemPlaceholder.jpeg",
     "table": [
       {
@@ -14,9 +14,9 @@
       }
     ]
   },
-  "hks-zort": {
+  {
     "name": "Zort",
-    "id": 2,
+    "id": "hks-zort",
     "imageLink": "https://hkayrad.github.io/hks-cdn/images/itemPlaceholder.jpeg",
     "table": [
       {
@@ -29,4 +29,4 @@
       }
     ]
   }
-}
+]
