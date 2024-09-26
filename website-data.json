@@ -2,6 +2,7 @@
   "hks-test": {
     "name": "Zort",
     "id": 1,
+    "imageLink": "https://hkayrad.github.io/hks-cdn/itemPlaceholder.jpeg",
     "table": [
       {
         "chemical": "NO2",
