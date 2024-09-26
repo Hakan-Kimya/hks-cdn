@@ -1,6 +1,6 @@
 {
   "hks-test": {
-    "name": "Zort",
+    "name": "Test",
     "id": 1,
     "imageLink": "https://hkayrad.github.io/hks-cdn/images/itemPlaceholder.jpeg",
     "table": [
@@ -11,6 +11,21 @@
       {
         "chemical": "O3",
         "amount": 4.5
+      }
+    ]
+  },
+  "hks-zort": {
+    "name": "Zort",
+    "id": 2,
+    "imageLink": "https://hkayrad.github.io/hks-cdn/images/itemPlaceholder.jpeg",
+    "table": [
+      {
+        "chemical": "NO2",
+        "amount": 90.0
+      },
+      {
+        "chemical": "O3",
+        "amount": 10.0
       }
     ]
   }
