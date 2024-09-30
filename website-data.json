@@ -15,6 +15,21 @@
     ]
   },
   {
+    "name": "Test Product",
+    "id": "hks-test-second",
+    "imageLink": "https://hkayrad.github.io/hks-cdn/images/itemPlaceholder.jpeg",
+    "table": [
+      {
+        "chemical": "NO2",
+        "amount": 90.0
+      },
+      {
+        "chemical": "O3",
+        "amount": 10.0
+      }
+    ]
+  },
+  {
     "name": "Zort",
     "id": "hks-zort",
     "imageLink": "https://hkayrad.github.io/hks-cdn/images/itemPlaceholder.jpeg",
