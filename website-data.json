@@ -30,21 +30,6 @@
     ]
   },
   {
-    "name": "Zort",
-    "id": "hks-zort",
-    "imageLink": "https://hkayrad.github.io/hks-cdn/images/itemPlaceholder.jpeg",
-    "table": [
-      {
-        "chemical": "NO2",
-        "amount": 90.0
-      },
-      {
-        "chemical": "O3",
-        "amount": 10.0
-      }
-    ]
-  },
-  {
     "name": "HKSCAST MC4",
     "id": "hkscast-mc4",
     "imageLink": "https://raw.githubusercontent.com/hkayrad/htr-cdn/refs/heads/main/mobile/placeholderCard.webp",
