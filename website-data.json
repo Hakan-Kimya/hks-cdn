@@ -2,7 +2,7 @@
   {
     "name": "Test",
     "id": "hks-test",
-    "imageLink": "https://hkayrad.github.io/hks-cdn/images/itemPlaceholder.jpeg",
+    "imageLink": "https://hakan-kimya.github.io/hks-cdn/images/itemPlaceholder.jpeg",
     "table": [
       {
         "chemical": "NO2",
@@ -17,7 +17,7 @@
   {
     "name": "Test Product",
     "id": "hks-test-second",
-    "imageLink": "https://hkayrad.github.io/hks-cdn/images/itemPlaceholder.jpeg",
+    "imageLink": "https://hakan-kimya.github.io/hks-cdn/images/itemPlaceholder.jpeg",
     "table": [
       {
         "chemical": "NO2",
