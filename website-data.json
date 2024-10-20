@@ -36,5 +36,22 @@
       ["K2O", 2.7, 2.7, 2.75],
       ["Na2O", 0.08, 0.08, 0.09]
     ]
+  },
+  {
+    "name": "Bentonite",
+    "id": "bentonite",
+    "imageLink": "https://raw.githubusercontent.com/Hakan-Kimya/hks-cdn/refs/heads/master/images/bentonit.webp",
+    "description": "Clays containing predominantly montmorillonite, formed as a result of the chemical decomposition of volcanic ash, tuff and lava rich in aluminum and magnesium, are defined as 'bentonite'. Bentonite is a versatile clay used in industry, agriculture, mining and engineering geology. There are bentonite types used in drilling, pelletizing, casting, pharmaceutical, filling and oil bleaching industry processes in our country. Bentonite in Turkey; It is used in many areas such as drilling, pelletizing, casting industry and bleaching of oils. Research continues for cleaning material production and the paper industry.",
+    "table": [
+      ["HK-FNDR", "HK-DRL", "HK-INDS"],
+      ["SiO2", "55-65", "55-65", "55-65"],
+      ["Al2O3", ".12-.18", ".12-.19", ".12-.18"],
+      ["Fe2O3", "-", ".1-3,4", "ppm"],
+      ["TiO2", "-", ".0,20", "-"],
+      ["CaO", ".1-5", ".1-2", ".1-5"],
+      ["MgO", ".2-3", ".2-3,4", ".2-3"],
+      ["K2O", ".076-1,75", ".0,5-1,8", ".076-1,75"],
+      ["Na2O", ".1-3", ".1,3", ".1,3"]
+    ]
   }
 ]
