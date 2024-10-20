@@ -26,17 +26,17 @@
     "imageLink": "https://raw.githubusercontent.com/Hakan-Kimya/htr-cdn/refs/heads/master/images/kaolin.webp",
     "description": "Kaolin is a type of clay obtained from granite rocks. It is used in the production of some ceramics and porcelains. It is also known as bee clay in Turkey. It is a white and soft soil type. Kaolin is used in the production of high quality, glossy papers. Kaolin is also used in the production of paint, plastic goods, artificial rubber, medicine, fertilizer, ink, cosmetic products and in the production of catalysts used in the petroleum industry.",
     "table": [
-      {
-        "h1": "HK-HK3B",
-        "h2": "HK-HK3",
-        "h3": "HK-HK32"
-      },
-      {
-        "chemical": "Si02",
-        "amount": 48.5,
-        "amount2": 48.5,
-        "amount3": 49.3
-      }
+      [
+        "HK-HK3B",
+        "HK-HK3",
+        "HK-HK32"
+      ],
+      [
+        "Si02",
+        48.5,
+        48.5,
+        49.3
+      ]
     ]
   }
 ]
