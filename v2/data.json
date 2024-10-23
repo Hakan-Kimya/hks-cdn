@@ -1,0 +1,81 @@
+[
+    {
+      "en": {
+        "name": "Barite",
+        "description": "It is generally used as a filling material in the automotive, paint, plastic and coating industries, as an aggravating material in deep water or oil drilling, and in heavy concrete production in the construction industry."
+      },
+      "tr": {
+        "name": "Barit",
+        "description": "Genellikle otomotiv, boya, plastik ve kaplama sanayinde dolgu malzemesi olarak, derin su veya petrol sondajlarında ağırlaştırıcı malzeme olarak, inşaat sektöründe ağır beton yapımında kullanılmaktadır."
+      },
+      "id": "barite",
+      "imageLink": "https://raw.githubusercontent.com/Hakan-Kimya/hks-cdn/refs/heads/master/images/barit.webp",
+      "table": []
+    },
+    {
+      "name": "Calcite",
+      "id": "calcite",
+      "imageLink": "https://raw.githubusercontent.com/Hakan-Kimya/hks-cdn/refs/heads/master/images/kalsit.webp",
+      "description": "Calcium carbonate, also known as Calcite, has a wide range of uses in terms of its density and natural nature, and this allows calcium carbonate to take part in many areas of our lives. Calcite, an inorganic mineral, is the most important filler that optimizes production costs in many different sectors. Paint, paper, plastic, tire, rubber, cable, ceramic, plaster, ink, etc. are used as filling and coating materials. It is used in industries.",
+      "table": []
+    },
+    {
+      "name": "Dolomite",
+      "id": "dolomite",
+      "imageLink": "https://raw.githubusercontent.com/Hakan-Kimya/hks-cdn/refs/heads/master/images/dolomit.webp",
+      "description": "The most important areas of use are the production of refractory materials and its use as flux to ensure that unwanted impurities pass into the slag in steel production after calcination. Therefore, the industries where dolomite is most consumed are glass and soda, refractories and iron and steel.",
+      "table": []
+    },
+    {
+      "name": "Kaolin",
+      "id": "kaolin",
+      "imageLink": "https://raw.githubusercontent.com/Hakan-Kimya/hks-cdn/refs/heads/master/images/kaolin.webp",
+      "description": "Kaolin is a type of clay obtained from granite rocks. It is used in the production of some ceramics and porcelains. It is also known as bee clay in Turkey. It is a white and soft soil type. Kaolin is used in the production of high quality, glossy papers. Kaolin is also used in the production of paint, plastic goods, artificial rubber, medicine, fertilizer, ink, cosmetic products and in the production of catalysts used in the petroleum industry.",
+      "table": [
+        ["HK-HK3B", "HK-HK3", "HK-HK32"],
+        ["Si02", 48.5, 48.5, 49.3],
+        ["Al2O3", 34.5, 33.9, 33.5],
+        ["Fe2O3", 0.8, 1.59, 1.59],
+        ["TiO2", 0.21, 0.21, 0.24],
+        ["CaO", 0.06, 0.06, 0.08],
+        ["MgO", 0.39, 0.39, 0.4],
+        ["K2O", 2.7, 2.7, 2.75],
+        ["Na2O", 0.08, 0.08, 0.09]
+      ]
+    },
+    {
+      "name": "Bentonite",
+      "id": "bentonite",
+      "imageLink": "https://raw.githubusercontent.com/Hakan-Kimya/hks-cdn/refs/heads/master/images/bentonit.webp",
+      "description": "Clays containing predominantly montmorillonite, formed as a result of the chemical decomposition of volcanic ash, tuff and lava rich in aluminum and magnesium, are defined as 'bentonite'. Bentonite is a versatile clay used in industry, agriculture, mining and engineering geology. There are bentonite types used in drilling, pelletizing, casting, pharmaceutical, filling and oil bleaching industry processes in our country. Bentonite in Turkey; It is used in many areas such as drilling, pelletizing, casting industry and bleaching of oils. Research continues for cleaning material production and the paper industry.",
+      "table": [
+        ["HK-FNDR", "HK-DRL", "HK-INDS"],
+        ["SiO2", "55-65", "55-65", "55-65"],
+        ["Al2O3", ".12-.18", ".12-.19", ".12-.18"],
+        ["Fe2O3", "-", ".1-3,4", "ppm"],
+        ["TiO2", "-", ".0,20", "-"],
+        ["CaO", ".1-5", ".1-2", ".1-5"],
+        ["MgO", ".2-3", ".2-3,4", ".2-3"],
+        ["K2O", ".076-1,75", ".0,5-1,8", ".076-1,75"],
+        ["Na2O", ".1-3", ".1,3", ".1,3"]
+      ]
+    },
+    {
+      "name": "Feldspar",
+      "id": "feldspar",
+      "imageLink": "https://raw.githubusercontent.com/Hakan-Kimya/hks-cdn/refs/heads/master/images/feldspat.webp",
+      "description": "Feldspar is an important industrial raw material used in glass, ceramics, welding electrodes and paint industries. 60% of the world's feldspar production, especially sodium and potassium feldspars, is used as a filling material in the glass industry, 35% in the ceramic industry, and 5% in the rubber, plastic and paint industries. The largest consumption area of ​​feldspar produced in Turkey is the ceramic and glass industry. They are also painting and welding electrodes. It is also consumed in the plastic industry.",
+      "table": [
+        ["Na"],
+        ["SiO2", 74.22],
+        ["Al2O3", 12.88],
+        ["CaO", 0.6],
+        ["Na2O", 9.36],
+        ["MgO", 0.04],
+        ["Fe2O3", 0.09],
+        ["TiO2", 0.05],
+        ["MnO", 0.01]
+      ]
+    }
+  ]
+  
