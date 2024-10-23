@@ -1,12 +1,12 @@
 [
     {
-      "en": {
-        "name": "Barite",
-        "description": "It is generally used as a filling material in the automotive, paint, plastic and coating industries, as an aggravating material in deep water or oil drilling, and in heavy concrete production in the construction industry."
+      "name": {
+        "en": "Barite",
+        "tr": "Barit"
       },
-      "tr": {
-        "name": "Barit",
-        "description": "Genellikle otomotiv, boya, plastik ve kaplama sanayinde dolgu malzemesi olarak, derin su veya petrol sondajlarında ağırlaştırıcı malzeme olarak, inşaat sektöründe ağır beton yapımında kullanılmaktadır."
+      "description": {
+        "en": "It is generally used as a filling material in the automotive, paint, plastic and coating industries, as an aggravating material in deep water or oil drilling, and in heavy concrete production in the construction industry.",
+        "tr": "Genellikle otomotiv, boya, plastik ve kaplama sanayinde dolgu malzemesi olarak, derin su veya petrol sondajlarında ağırlaştırıcı malzeme olarak, inşaat sektöründe ağır beton yapımında kullanılmaktadır."
       },
       "id": "barite",
       "imageLink": "https://raw.githubusercontent.com/Hakan-Kimya/hks-cdn/refs/heads/master/images/barit.webp",
